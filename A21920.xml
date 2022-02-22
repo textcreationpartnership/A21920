@@ -1,0 +1,131 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>By the Queene. A proclamation for the dearth of corne</title>
+            <title>Proclamations. 1596-07-31</title>
+            <author>England and Wales. Sovereign (1558-1603 : Elizabeth I)</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1596</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 5 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A21920</idno>
+            <idno type="STC">STC 8251</idno>
+            <idno type="STC">ESTC S115520</idno>
+            <idno type="EEBO-CITATION">99850739</idno>
+            <idno type="PROQUEST">99850739</idno>
+            <idno type="VID">15964</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A21920)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 15964)</note>
+            <note>Images scanned from microfilm: (Early English books, 1475-1640 ; 565:102)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>By the Queene. A proclamation for the dearth of corne</title>
+                  <title>Proclamations. 1596-07-31</title>
+                  <author>England and Wales. Sovereign (1558-1603 : Elizabeth I)</author>
+                  <author>Elizabeth I, Queen of England, 1533-1603.</author>
+               </titleStmt>
+               <extent>1 sheet ([1] p.)   </extent>
+               <publicationStmt>
+                  <publisher>By the deputies of Christopher Barker, printer to the Queenes most excellent Maiestie,</publisher>
+                  <pubPlace>Imprinted at London :</pubPlace>
+                  <date>1596.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Forbidding of engrossing of grain and requiring observance of STC 9202: Miscellaneous Documents. 1595; suspending manufacture of starch.</note>
+                  <note>Reproduction of the original in the Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-11</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-05</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2009-05</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="royal_proclamation">
+            <pb facs="tcp:15964:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 20 -->
+            <head>
+               <g ref="char:leaf">❧</g> By the Queene.</head>
+            <head type="sub">A Proclamation for the dearth of Corne.</head>
+            <p>
+               <seg rend="decorInit">T</seg>HE Queenes Maieſtie hearing by report out of ſundry Countries in the Realme, or the vnreaſonable encreaſe of prices of Graine, to the griefe of her poorer ſort of people that haue no liuing by Cillage: And though the ſellers of Corne, as rich Farmers, and Ingroſſers, do pretend to raiſe the prices by colour of the vnſeaſonableneſſe of this Sommer: yet that being no ruſt cauſe to raiſe the prices of their olde Corne of the laſt yeeres growth, but that the Farmers and Ingroſſers of Corne, of meere couetouſneſſe haue ve<g ref="char:EOLhyphen"/>ry lately, euen within two moneths, moſt vncharitably haunced vp their prices, not collerable to be ſuffered. For remedie whereof, to the reliefe of the great multitude of her poore louing Subiects, lacking Corne for their foode, and alſo for reformation of ma<g ref="char:EOLhyphen"/>ny other abuſes committed by ſuch couetous and vncharitable perſons, being voide of all naturall compaſ<g ref="char:EOLhyphen"/>ſion towards their neighbours: Her Maieſtie calling to her remembrance the good orders by her Maieſties commaundement publiſhed the laſt yeere, eſpecially for the ſtaye of the dearth of Corne, to be executed by the Sherifes and Iuſtices of Peace in euery Countie of her Realme, the good obſeruation whereof would re<g ref="char:EOLhyphen"/>medie theſe diſorders of the yll and wealthy ſort, and to the reliefe of the good and needie: Doeth therefore charge and ſtraightly commaund all her Sherifes and Iuſtices of Peace, and other principall Officers in Townes Corporate, foorthwith vpon publication hereof to aſſemble themſelues in their places accuſtomed, and there diligently to peruſe the ſaid Orders publiſhed in the yeere of our Lord, one thouſand fiue hundred foureſcore and fifteene, and diligently to conſider all ſuch points of thoſe Orders, as may tend to the refor<g ref="char:EOLhyphen"/>mation of all perſons, that by their diſorder and couetouſneſſe, and breach of the ſaid Orders, are the cauſers directly or indirectly to encreaſe the prices of Graine in this lamentable ſort beyond reaſon, and foorthwith to proceede to the execution of all ſuch orders, as may with good reaſon giue remedy to the furniture of Mar<g ref="char:EOLhyphen"/>kets, and to abate ſuch vnreaſonable encreaſe of prices. And of their doings her Maieſtie commandeth that the ſaide Sherifes and Iuſtices, and other principall Officers, doe certifie her Maieſties priuie Counſell monthly, or oftner, vntill the laſt of December next, with particular notifications of ſuch Iuſtices &amp; Offi<g ref="char:EOLhyphen"/>cers as ſhall herein beſtowe their labours, ſo as her Maieſtie by ſuch certificate may be duely informed, who they are that ſhall duetifully towards her Maieſtie, and charitably towards their neighbours, perfourme their charge committed to them, and contrariwiſe to miſlike of ſuch as ſhall neglect the execution of this her commaundement.</p>
+            <p>And in like maner, her Maieſtie being informed of an abuſe greatly tending to make a ſcarcitie of Corne meet to make bread, by making of Starch within the Realme, of Corne of the Realme, doeth ſtreightly com<g ref="char:EOLhyphen"/>maund, that no maner of perſon ſhal make any Starch of any Corne, or branne of Corne growen within the Realme, or that is, or ſhall be brought into the Realme, nor wittingly ſell or vtter any ſuch Starch (except ſuch as hath bene made by vertue of her Maieſties Letters Patents.) And whereas her Maieſtie hath al<g ref="char:EOLhyphen"/>ready, by her ſaide Letters Patents graunted to one of her louing Subiects, the making of Starch to bee made of Bran only: To the end, the poorer ſort may be relieued this way alſo, Her Maieſtie doth alſo ſtreight<g ref="char:EOLhyphen"/>ly inhibite and forbidde the ſaid Patentee, his Deputies and Aſſignes, and euery of them, (notwithſtanding her Maieſties graunt by the ſaide Letters Patents) hencefoorth to make any Starch of Branne, during this time of dearth, vpon paine of impriſonment by any Iuſtice of Peace, or other publike Officer of iuſtice, and forfeiture to her Maieſties vſe of the ſame Starch ſo made, either of Corne or Branne, or any other Graine, or wittingly put to ſale by the ſaid Patentee, his ſaid Deputies or Aſſignes, or by any other perſon or perſons whatſoeuer.</p>
+            <closer>
+               <dateline>Giuen vnder our Signet. At our Mannor of Greenwich, <date>the laſt day of Iuly, in the xxxviii. yeere of our Raigne.</date>
+               </dateline>
+               <lb/>
+God ſaue the Queene.</closer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>Imprinted at London by the Deputies of CHRISTOPHER BARKER, Printer to the Queenes <hi>moſt excellent Maiestie.</hi> 1596.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
